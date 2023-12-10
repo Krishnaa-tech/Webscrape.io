@@ -36,8 +36,6 @@ This project aims to scrape a news article website to collect the articles with 
 
 </div>
 
-
-
 <h4 align = "left"> Contributors </h2>
 <p align="left">
   <a href="https://github.com/krishnaa-tech">Krish Goyal</a> &#xa0;
