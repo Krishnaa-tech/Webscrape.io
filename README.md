@@ -24,8 +24,8 @@ This project aims to scrape a news article website to collect the articles with 
 <h2> Results & Observations</h2>
 
 <div align="center">
-    <p><strong>ACCURACY</strong> before Hyperparameter Tuning: <strong>78%</strong></p>
-    <p><strong>ACCURACY</strong> after Hyperparameter Tuning: <strong>82%</strong></p>
+    <p><strong>Training ACCURACY</strong> before Hyperparameter Tuning: <strong>78%</strong></p>
+    <p><strong>Training ACCURACY</strong> after Hyperparameter Tuning: <strong>82%</strong></p>
 </div>
 
 <div align="center"> <img src="model/test_accuracy.png" alt="Screenshot" /></div>
