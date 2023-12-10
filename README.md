@@ -20,7 +20,7 @@ This project aims to scrape a news article website to collect the articles with 
   <img src="model/confusion_matrix_after_boosting.png" width="900" alt="Profile Readme Generator" />
 </div>
 
-<h2> Instructions </h2>
+## Instructions 
 1. **Install the requirements:** ```pip install -r requirements.txt``` <br>
 2. Run the [`scrape.py`](/scaped_data/scrape.py) for scrapping the Articles from [News Website](https://www.hindustantimes.com). <br>
 3. The obtained dataset will be released after web scraping using which [`model.ipynb`](/model/model.ipynb) for classifying the articles.
