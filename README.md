@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="/scaped_data/classified_articles_data.csv">Obtained Dataset</a> &#xa0; | &#xa0;
+  <a href="/model/test_classified_articles_data.csv">Test Dataset</a> &#xa0; | &#xa0;
   <a href="/scaped_data/scrape.py">Web Scrapping Code</a> &#xa0; | &#xa0;
   <a href="/model/model.ipynb">Jupyter Notebook</a> &#xa0; 
 </p>
@@ -17,8 +18,8 @@ This project aims to scrape a news article website to collect the articles with 
 ## Instructions 
 1. **Install the requirements:** ```pip install -r requirements.txt``` <br>
 2. Run the [`scrape.py`](/scaped_data/scrape.py) for scrapping the Articles from [News Website](https://www.hindustantimes.com). <br>
-3. The obtained dataset will be released after web scraping from there use [`model.ipynb`](/model/model.ipynb) for classifying the articles in different categories.
-4. Testing the model using pickle file `trained_model.pkl` and loading in [`test_model.ipynb`](/model/test_model.ipynb) file .
+3. The [`obtained dataset`](/scaped_data/classified_articles_data.csv) will be released after web scraping from there use [`model.ipynb`](/model/model.ipynb) for classifying the articles in different categories.
+4. Testing the model using [`test dataset`](/model/test_classified_articles_data.csv) and using the pickle file `trained_model.pkl` for using training model weights in [`test_model.ipynb`](/model/test_model.ipynb) file.
 
 <h2> Results & Observations</h2>
 
