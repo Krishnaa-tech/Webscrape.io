@@ -62,8 +62,7 @@ driver = webdriver.Chrome()
 # Specify the desired categories
 categories = ['INDIA NEWS', 'LIFESTYLE',
     'ENTERTAINMENT', 'CRICKET', 'EDUCATION',
-    'WORLD NEWS', 'SPORTS', 'SCIENCE', 'WEATHER'
-]
+    'WORLD NEWS', 'SPORTS', 'SCIENCE']
 
 
 all_articles_data = []
