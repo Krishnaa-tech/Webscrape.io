@@ -27,11 +27,11 @@ This project aims to scrape a news article website to collect the articles with 
     <p><strong>ACCURACY</strong> after Hyperparameter Tuning: <strong>82%</strong></p>
 </div>
 
-<div align="center"> <img src="model/accuracy.png" width="900" alt="Screenshot" /></div>
+<div align="center"> <img src="model/accuracy.png" alt="Screenshot" /></div>
 <div align="center" id="top">
-  <img src="model/confusion_matrix_before_boosting.png" width="900" alt="Profile Readme Generator" />
+  <img src="model/confusion_matrix_before_boosting.png"  alt="Profile Readme Generator" />
     
-  <img src="model/confusion_matrix_after_boosting.png" width="900" alt="Profile Readme Generator" />
+  <img src="model/confusion_matrix_after_boosting.png" alt="Profile Readme Generator" />
 
 </div>
 
