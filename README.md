@@ -1,3 +1,17 @@
+[![GitHub license](https://img.shields.io/github/license/Krishnaa-tech/Webscrape.io)](https://github.com/Krishnaa-tech/Webscrape.io/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Krishnaa-tech/Webscrape.io.svg)](https://GitHub.com/Krishnaa-tech/Webscrape.io/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Krishnaa-tech/Webscrape.io.svg)](https://GitHub.com/Krishnaa-tech/Webscrape.io/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Krishnaa-tech/Webscrape.io.svg)](https://GitHub.com/Krishnaa-tech/Webscrape.io/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub watchers](https://img.shields.io/github/watchers/Krishnaa-tech/Webscrape.io.svg?style=social&label=Watch)](https://GitHub.com/Krishnaa-tech/Webscrape.io/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/Krishnaa-tech/Webscrape.io.svg?style=social&label=Fork)](https://GitHub.com/Krishnaa-tech/Webscrape.io/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Webscrape.io.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Webscrape.io/stargazers/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Webscrape.io/HEAD)
+[![Gitter](https://badges.gitter.im/Krishnaa-tech/Webscrape.io.svg)](https://gitter.im/Krishnaa-tech/Webscrape.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) 
+![Python 3.11.6](https://img.shields.io/badge/Python-3.11-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
+
 <div align="center">
   <h1>Webscrape.io</h1>
   <h3>The Best News Scrapper to categorise News Articles!</h3>
