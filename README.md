@@ -8,7 +8,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Webscrape.io.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Webscrape.io/stargazers/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Webscrape.io/HEAD)
 [![Gitter](https://badges.gitter.im/Krishnaa-tech/Webscrape.io.svg)](https://gitter.im/Krishnaa-tech/Webscrape.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) 
 ![Python 3.11.6](https://img.shields.io/badge/Python-3.11-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 
