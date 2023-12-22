@@ -19,7 +19,7 @@
 <p align="center">
   <a href="/scaped_data/classified_articles_data.csv">Obtained Dataset</a> &#xa0; | &#xa0;
   <a href="/model/test_classified_articles_data.csv">Test Dataset</a> &#xa0; | &#xa0;
-  <a href="/scaped_data/scrape.py">Web Scrapping Code</a> &#xa0; | &#xa0;
+  <a href="/scraped_data/scrape.py">Web Scrapping Code</a> &#xa0; | &#xa0;
   <a href="/model/model.ipynb">Jupyter Notebook</a> &#xa0; 
 </p>
 
